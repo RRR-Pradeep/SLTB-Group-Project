@@ -23,13 +23,10 @@ A modern mobile application developed for the Sri Lanka Transport Board (SLTB) t
 
 🛠️ Technology Stack
 
-•	Frontend: Flutter & Dart
-
-•	Backend: Firebase (Authentication & Cloud Firestore)
-
-•	State Management: Provider
-
-•	Device Features: Image Picker (Camera & Gallery Access)
+•	Frontend: Flutter & Dart  
+•	Backend: Firebase (Authentication & Cloud Firestore)  
+•	State Management: Provider  
+•	Device Features: Image Picker (Camera & Gallery Access)  
 
 
 🚀 Getting Started
@@ -39,8 +36,6 @@ Follow these steps to run the project on your local machine.
 
 📌 Prerequisites
 
-•	Flutter SDK (v3.10.7 or higher)
-
-•	Android Studio or Visual Studio Code
-
-•	Active Firebase Project html code ekkin denn okkoma
+•	Flutter SDK (v3.10.7 or higher)  
+•	Android Studio or Visual Studio Code  
+•	Active Firebase Project html code ekkin denn okkoma  
