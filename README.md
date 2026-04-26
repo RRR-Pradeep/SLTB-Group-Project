@@ -6,7 +6,7 @@ A modern mobile application developed for the Sri Lanka Transport Board (SLTB) t
 🌟 Key Features
 
 •	User Authentication  
-•	Secure login and registration system using Firebase Authentication.
+•	Secure login and registration system using Firebase Authentication.  
 •	Interactive Dashboard 
 •	Displays real-time statistics of operational assets and assets requiring maintenance. 
 •	Asset Surveying 
